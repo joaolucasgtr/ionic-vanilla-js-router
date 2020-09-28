@@ -1,4 +1,4 @@
-const techs = [
+let techs = [
   {
     title: "Angular",
     icon: "angular",
@@ -22,7 +22,7 @@ const techs = [
   {
     title: "JavaScript",
     icon: "javascript",
-    description: "One of the most popular programming languages on the Web!",
+    description: "THE most popular programming languages on the Web!",
     color: "#FFD439"
   },
   {
