@@ -22,6 +22,7 @@ Thanks to libs like Ionic, it gets even easier and faster the process of buildin
 - [Web Components !!](https://developer.mozilla.org/pt-BR/docs/Web/Web_Components)
 - [Ionic Framework - Vanilla JS !!](https://ionicframework.com/docs)
 - [ES6's template strings](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/template_strings)
+- [ES6's modules](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules)
 
 ## Screenshots
 
